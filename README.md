@@ -4,6 +4,7 @@ A comprehensive, web-based RAG (Retrieval-Augmented Generation) system with an i
 
 
 ![system capabilities](https://github.com/user-attachments/assets/365a7dd5-8131-427a-870c-1cf3a9ab7499)
+![interface with weblink](https://github.com/user-attachments/assets/ed68fd9b-c0b0-4e0e-9976-d9d80849ae83)
 
 
 ## 🎯 What is this project about?
