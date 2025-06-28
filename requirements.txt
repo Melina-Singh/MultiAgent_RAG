@@ -1,0 +1,10 @@
+langchain 
+langchain_community
+transformers
+faiss-cpu
+requests
+beautifulsoup4
+datasets
+evaluate
+fastapi
+uvicorn

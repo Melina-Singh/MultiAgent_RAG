@@ -1,0 +1,5 @@
+.env
+ragenv/
+__pycache__/
+*.pyc
+vector_index/
