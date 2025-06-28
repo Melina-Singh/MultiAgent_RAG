@@ -8,7 +8,7 @@ import time
 # Import custom modules
 from backend.document_processor import DocumentProcessor
 from backend.vector_store import VectorStore
-from backend.llm_handler import LLMHandler
+from backend.rag_llm_handler import LLMHandler
 from backend.evaluation_metrics import EvaluationMetrics
 from backend.summarizer import Summarizer
 from backend.web_scraper import WebScraper
