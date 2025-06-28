@@ -1,6 +1,7 @@
 # Multi-Agent RAG System 🤖
 
-A comprehensive, web-based RAG (Retrieval-Augmented Generation) system with an intuitive Streamlit interface that combines document processing, web scraping, and advanced language model capabilities to provide intelligent answers, summaries, and evaluations.
+A comprehensive, web-based RAG (Retrieval-Augmented Generation) system with an intuitive Streamlit interface that combines document processing, web scraping, and advanced language model capabilities to deliver intelligent answers, summaries, and evaluations. The system leverages Google's Gemini as the LLM, FAISS as the vector database for efficient retrieval, and utilizes LangChain for document chunking.
+
 
 ![system capabilities](https://github.com/user-attachments/assets/365a7dd5-8131-427a-870c-1cf3a9ab7499)
 
@@ -62,7 +63,7 @@ The system features a user-friendly Streamlit web interface that makes advanced 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
 │   Documents     │───▶│   Text Chunks    │───▶│   Embeddings   │
-│                 │    │                  │    │                 │
+│                 │    │    (Langchain)    │    │                 │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
                                                         │
          ┌─────────────────┐    ┌──────────────────┐    │
