@@ -2,6 +2,9 @@
 
 A comprehensive, web-based RAG (Retrieval-Augmented Generation) system with an intuitive Streamlit interface that combines document processing, web scraping, and advanced language model capabilities to provide intelligent answers, summaries, and evaluations.
 
+![system capabilities](https://github.com/user-attachments/assets/365a7dd5-8131-427a-870c-1cf3a9ab7499)
+
+
 ## 🎯 What is this project about?
 
 This advanced Multi-Agent RAG system provides a complete web application that enables you to:
