@@ -378,15 +378,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Sentence Transformers** for high-quality embeddings
 - **Hugging Face** for NLP model ecosystem
 
-## 📞 Support
 
-If you encounter issues:
 
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Review the application logs in the Streamlit interface
-3. Verify all dependencies are installed correctly
-4. Create an issue with detailed error information
 
----
-
-**Built with ❤️ for intelligent document processing and question answering with a beautiful web interface.**
